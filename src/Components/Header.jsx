@@ -3,6 +3,7 @@ function Header(){
     return (
         <>
             <h1 className="font-black text-3xl text-center md:w-2/3 mx-auto">
+                CLINICA VETERINARIA
                 Seguimiento pacientes 
                 <span className="text-indigo-600"> veterinaria</span>
             </h1>
