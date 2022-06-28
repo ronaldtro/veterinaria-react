@@ -5,6 +5,7 @@ import {useState, useEffect} from 'react';
 
 function App() {
 
+  
   const [pacientes, setPacientes] = useState([]);
   const [paciente, setPaciente] = useState({});
 
